@@ -18,3 +18,8 @@ Each time you reach the top of the water, difficulty increases.
 Collect hearts to gain extra lives.
 Avoid the bugs, they kill you. You start with three lives.
 
+## OR
++ Click on link to play: [Arcade-Game](https://vronney.github.io/Arcade-Game/)
+
+
+
