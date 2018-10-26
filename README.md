@@ -1,6 +1,9 @@
 # Front-End Web Nanodegree Arcade Game
 
 ## This is my Frogger clone for Udacity's Front-End Web Developer Nanodegree.
++ Udacity provided the art assets and game engine.
++ Coded player, enemies, and other game entities in JavaScript's object-orientation pseudo-classic-style.
++ Created enemy subclasses with different movement patterns and sprites.
 
 ## Installation:
 1. Download the respository: 
